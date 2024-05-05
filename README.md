@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This project was bootstrapped with CRA [Create React App].
 
-## Available Scripts
-
+The Tech Stacks used are
+---------------------------------------------------------
 In the project directory, you can run:
 
 ### `npm start`
