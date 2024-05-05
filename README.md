@@ -1,7 +1,7 @@
 
-# This is QuadB Tech Task  --> Creating a task for a fresher candidate aspiring to join as a ReactJS Developer involves designing challenges that test their understanding of foundational web technologies (HTML, CSS, JavaScript) and essential React concepts. Given your requirements, here's a structured task that can help evaluate the candidate's skills effectively.
+# This is QuadB Tech Task 
 
-Task Title: Build a Simple React To-Do Application
+                                                     Task Title: Build a React To-Do Application
 
 
 ## This project was bootstrapped with CRA [Create React App].
