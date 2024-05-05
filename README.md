@@ -8,8 +8,8 @@
 
 The Tech Stacks used are
 ---------------------------------------------------------
-HTML, CSS, JavaScript, React components, Hooks, and State Management using Redux
-React Hooks Used were (`useState`, `useEffect`)
+HTML, CSS, JavaScript, React components, Hooks, and State Management using Redux.                    
+    React Hooks Used were (`useState`, `useEffect`)
 
 Let Start With Project Detail Features :
 
