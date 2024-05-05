@@ -19,8 +19,8 @@ Let Start With Project Detail Features :
 4) User can even ' Edit Task or Rename the Task '  one by one so just by click on Edit Button an Input Field will Appear.
 5) After Rename or Completely Edit task User have to Press ' Enter Key '. This will Save and Update the changes.
 6) Now, User can even Delete Task and just by clicking it will delete task.
-7) What ever user has Added task has been Saved in ' Local Storage '. Now even user do refresh task add by them will not vanish only by clicking on ' Delete Button '
-    it will even get deleted from local storage.
+7) What ever user has Added task has been Saved in ' Local Storage '. Now even user do refresh task will not vanish and only on  clicking ' Delete Button '
+    it will get deleted from local storage.
 8) If User dont Enter Task in Text field its will Show Error to alert User to Add Task and then Click on Add Button.
 9) Finally, One more Feature has been added i.e ' Task Count '.
 10) So, Whenever User Add Task in List it will be counted as this many task are pending and on click of delete its will decrease Count of Task.
